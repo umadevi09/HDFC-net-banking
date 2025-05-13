@@ -1,0 +1,2 @@
+this is my first code in git hub
+here git is an open source platform
